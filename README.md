@@ -1,23 +1,34 @@
-# Sobre Mim 
+# Olá! Eu sou o Thiago 👨‍💻
 
-Olá! Meu nome é Thiago e sou ilustrador em mudança de carreira e estudante de Analise e Desenvolvimento de Sistemas. 
-Estou sempre em busca de aprender coisas novas e compartilhar conhecimentos com a comunidade.
+Olá! Sou **ilustrador em transição de carreira** e atualmente estudo **Análise e Desenvolvimento de Sistemas**. Minha paixão é unir a criatividade e o foco em design com a lógica e a estrutura do desenvolvimento.
 
-## Áreas de Interesse 
+Estou sempre em busca de aprender e compartilhar novos conhecimentos com a comunidade!
+
+---
+
+## 🎯 Áreas de Interesse 
+
+- **UX Design** (Aplicando minha experiência visual e de usuário)
 - Desenvolvimento Web
 - Desenvolvimento de Jogos
-- UX Design
 
-## Tecnologias
+---
+
+## ⚙️ Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiciriano&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiciriano&layout=compact&langs_count=6&theme=nord&hide_border=true&card_width=320)
+
+---
+
+## ✨ Tecnologias
+
+Essas são as tecnologias com as quais tenho trabalhado e estudado:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
-
 ![MySQL](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite)
-
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
-
 ![HTML](https://img.shields.io/badge/HTML-FF5C00?style=for-the-badge&logo=HTML)
-
 ![CSS](https://img.shields.io/badge/CSS-87CEFA?style=for-the-badge&logo=CSS)
-
 ![Javascript](https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript)
