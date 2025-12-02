@@ -15,11 +15,10 @@ Estou sempre em busca de aprender e compartilhar novos conhecimentos com a comun
 ---
 
 ## ⚙️ Minhas Estatísticas do GitHub
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiciriano&theme=nord_dark)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiciriano&show_icons=true&theme=nord&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiciriano&layout=compact&langs_count=6&theme=nord&hide_border=true&card_width=320)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiciriano&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiciriano&theme=nord_dark)
 ---
 
 ## ✨ Tecnologias
